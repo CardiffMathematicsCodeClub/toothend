@@ -1,0 +1,75 @@
+body {
+  background-color: #4169e0;
+}
+
+.page_header {
+    background-color: #025E73;
+    padding: 20px 20px 20px 40px;
+    width: auto;
+    height: 5px;
+    color: white;
+    border-bottom-color: #025E73
+}
+
+.page_header h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 0px;
+}
+
+.container {
+  padding: 0px 0px 0px 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  width: auto;
+}
+
+.whole {
+  margin: 20px auto 10px auto;
+  max-width: 500px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: white;
+
+}
+
+.stage {
+  margin: 20px auto 10px auto;
+  background-color: black;
+  color: white;
+}
+
+.news {
+  margin: 20px auto 10px auto;
+  background-color: white;
+  color: black;
+}
+
+.pnews {
+  margin: 20px auto 10px auto;
+  border-top: 1px solid black;
+}
+
+.you {
+  margin: 20px auto 10px auto;
+  background-color: black;
+}
+
+.players {
+  margin: 20px auto 10px auto;
+  background-color: blue;
+}
+
+.readyb {
+  margin: 20px auto 10px auto;
+  background-color: green;
+}
+
+.activity {
+  margin: 20px auto 10px auto;
+  background-color: white;
+  color: black;
+}
